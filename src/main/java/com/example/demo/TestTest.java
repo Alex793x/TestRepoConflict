@@ -10,4 +10,12 @@ public class TestTest {
     public String helloWorld() {
         return "Hello World";
     }
+
+    public String kage(String kageType){
+        if (kageType.equalsIgnoreCase("Farmors Æbletærte")){
+            return "Kæft en lækker kage makker, den vil jeg gerne have";
+        } else {
+            return "Shit, din kage sutter røv, den skal jeg ikke have....ad";
+        }
+    }
 }
