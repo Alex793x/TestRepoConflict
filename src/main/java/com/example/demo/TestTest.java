@@ -11,8 +11,8 @@ public class TestTest {
         return "Hello World";
     }
 
-    public String kage(String kageType){
-        if (kageType.equalsIgnoreCase("Farmors Æbletærte")){
+    public String kage(String kageType) {
+        if (kageType.equalsIgnoreCase("Farmors Æbletærte")) {
             return "Kæft en lækker kage makker, den vil jeg gerne have";
         } else {
             return "Shit, din kage sutter røv, den skal jeg ikke have....ad";
@@ -23,8 +23,7 @@ public class TestTest {
         return "Hello world";
     }
     public String kageComment() {
-        return "ad jerg hader bare tærtekage";
-
+        return "ad jeg hader bare tærtekage";
     }
     // Tissemand
 }
