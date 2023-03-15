@@ -18,4 +18,8 @@ public class TestTest {
             return "Shit, din kage sutter røv, den skal jeg ikke have....ad";
         }
     }
+
+    public String kageComment() {
+        return "ad jerg hader bare tærtekage";
+    }
 }
