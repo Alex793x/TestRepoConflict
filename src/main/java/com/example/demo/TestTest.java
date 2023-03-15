@@ -19,7 +19,11 @@ public class TestTest {
         }
     }
 
+    public String helloWorld1() {
+        return "Hello world";
+    }
     public String kageComment() {
         return "ad jerg hader bare tærtekage";
+
     }
 }
