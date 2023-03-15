@@ -23,7 +23,6 @@ public class TestTest {
         return "Hello world";
     }
     public String kageComment() {
-        return "ad jerg hader bare tærtekage";
-
+        return "ad jeg hader bare tærtekage";
     }
 }
