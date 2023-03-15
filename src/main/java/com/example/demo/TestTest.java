@@ -25,4 +25,5 @@ public class TestTest {
     public String kageComment() {
         return "ad jeg hader bare tærtekage";
     }
+    // hejmeddig lil luder
 }
